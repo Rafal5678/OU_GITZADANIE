@@ -1,0 +1,3 @@
+C:/Users/Rex/CLionProjects/OU_GITZADANIE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rex/CLionProjects/OU_GITZADANIE/cmake-build-debug/CMakeFiles/OU_GITZADANIE.dir
+C:/Users/Rex/CLionProjects/OU_GITZADANIE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
